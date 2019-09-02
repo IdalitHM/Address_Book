@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Contacts</string>
+    <string name="btnButton1">Show Contact</string>
+    <string name="btnButton2">Show Contact</string>
+    <string name="txtName1">Ruby Jain</string>
+    <string name="txtName2">Napier Jack</string>
+    <string name="txtAddress1">2347 Starvalley Ave N, Clearwater, Fl 33755</string>
+    <string name="txtAddress2">3794 Valley Way W, Largo, Fl 33763</string>
+    <string name="txtPhone1">(727) 631-9515</string>
+    <string name="txtPhone2">(727) 888-7961</string>
+    <string name="description">Person One</string>
+    <string name="description2">Person Two</string>
+    <string name="title_activity_ruby">Ruby</string>
+    <string name="title_activity_napier">Napier</string>
+</resources>
